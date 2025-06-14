@@ -1,0 +1,8 @@
+Sempre que abrir um repositório novo no Git precisa inicializar com "Git init" 
+
+Usar o comando "Ls" para listar as pastas que contém onde você está;
+
+Configurar apenas na primeira vez com: git config --global user.name "Seu Nome"
+
+git config --global user.email "seuemail@exemplo.com".
+

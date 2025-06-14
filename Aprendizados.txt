@@ -1,8 +1,31 @@
+	Coisas Que Aprendi Até agora
+
+		INICIO DO GIT:
+
 Sempre que abrir um repositório novo no Git precisa inicializar com "Git init" 
 
 Usar o comando "Ls" para listar as pastas que contém onde você está;
 
+	CONFIGURAR O GIT:
+
 Configurar apenas na primeira vez com: git config --global user.name "Seu Nome"
 
 git config --global user.email "seuemail@exemplo.com".
+
+	CONECTAR O GIT AO GITHUB:
+
+Conectar o repositório local ao remoto usando = Git remote add origin: "https do repositório remoto"
+
+
+Ver se está certo usando = Remote -v
+
+	USAR O GIT PARA ALTERAR ARQUIVOS :
+
+Após alterar os arquivos adicionar arquivos novos sempre dar um "Git add *"
+
+Dar um: "Git status" para ver se tá saindo como esperado
+
+Depois do git add pe só commitar usando =  "git commit -m "nome da ação executada"
+
+Após isso é só "Pushar" os arquivos no GitHub pelo Git usando o "git push origin main"
 

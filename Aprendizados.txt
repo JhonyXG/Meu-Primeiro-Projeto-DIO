@@ -1,4 +1,6 @@
-	Coisas Que Aprendi Até agora
+	Coisas Que Aprendi Até Agora
+
+
 
 		INICIO DO GIT:
 
@@ -28,4 +30,11 @@ Dar um: "Git status" para ver se tá saindo como esperado
 Depois do git add pe só commitar usando =  "git commit -m "nome da ação executada"
 
 Após isso é só "Pushar" os arquivos no GitHub pelo Git usando o "git push origin main"
+
+
+	ATALHOS BONS PRA SE USAR:
+
+"MKDIR" = PARA CRIAR UMA PASTA 
+"LS -A" = MOSTRAR PASTAS OCULTAS
+
 
